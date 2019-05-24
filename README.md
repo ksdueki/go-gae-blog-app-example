@@ -1,0 +1,1 @@
+# go-gae-blog-app-example
